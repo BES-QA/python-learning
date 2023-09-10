@@ -1,0 +1,80 @@
+Index: SkyPro_learning/.idea/misc.xml
+===================================================================
+diff --git a/SkyPro_learning/.idea/misc.xml b/SkyPro_learning/.idea/misc.xml
+deleted file mode 100644
+--- a/SkyPro_learning/.idea/misc.xml	
++++ /dev/null	
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (sky_pro_learning)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: SkyPro_learning/.idea/.gitignore
+===================================================================
+diff --git a/SkyPro_learning/.idea/.gitignore b/SkyPro_learning/.idea/.gitignore
+deleted file mode 100644
+--- a/SkyPro_learning/.idea/.gitignore	
++++ /dev/null	
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: SkyPro_learning/.idea/sky_pro_learning.iml
+===================================================================
+diff --git a/SkyPro_learning/.idea/sky_pro_learning.iml b/SkyPro_learning/.idea/sky_pro_learning.iml
+deleted file mode 100644
+--- a/SkyPro_learning/.idea/sky_pro_learning.iml	
++++ /dev/null	
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: SkyPro_learning/.idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/SkyPro_learning/.idea/inspectionProfiles/profiles_settings.xml b/SkyPro_learning/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/SkyPro_learning/.idea/inspectionProfiles/profiles_settings.xml	
++++ /dev/null	
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	
++++ /dev/null	
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: SkyPro_learning/.idea/modules.xml
+===================================================================
+diff --git a/SkyPro_learning/.idea/modules.xml b/SkyPro_learning/.idea/modules.xml
+deleted file mode 100644
+--- a/SkyPro_learning/.idea/modules.xml	
++++ /dev/null	
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/sky_pro_learning.iml" filepath="$PROJECT_DIR$/.idea/sky_pro_learning.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
